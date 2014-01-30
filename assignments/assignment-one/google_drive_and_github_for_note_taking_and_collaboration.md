@@ -1,0 +1,15 @@
+**IT 262 Assignment #1**
+
+**Austin Savage**
+
+**833 085 419**
+
+#Google Drive And GitHub For Note Taking And Collaboration
+
+Google Drive and GitHub are both online services that can create content, share, and collaborate with other users. Because of this, they can be used to aid in college coursework. Both GitHub and Google Drive can be used for homework assignments, group projects, and programming assignments. Each of these apps operate in their own way and should be applied differently depending on the situation.
+
+Google Drive is free to use with any Google Account. It allows users to create text documents, slideshows, and spreadsheets. It functions very similarly to the way Microsoft Office does. The benefit to Google Drive is that the app runs within any modern web browser. All of the files created in Google Drive are saved in realtime and can be accessed from any computer with a connection to Google. This also lets you share the documents with your friends or teachers to collaborate on projects, notes, or tutoring. For programming courses, google drive is great to use for documentation of code. Not only can you share the documentation for everyone in your team to use, there is an extensive revision history. The documentation can be rolled back to previous versions of the document. There are also great built in spell check and formatting features that aren’t as extensive in other note taking applications like Evernote. For non-programming courses, Google Drive works even better. Since word processing is one of the strongest features, general note taking, english or speech class, science courses, etc… The amount of class work that requires word processing is substantial. But, because Drive isn’t particularly useful for managing code, what can we use?
+
+GitHub is designed to manage your source code. It is free and can be used for private assignments between yourself or other group members. It can also be used for public projects. GitHub encourages members to create open source projects and host their code on their site. When working with a group, source code can be edited by multiple people. After changes are committed and pushed to the server, conflicts can be addressed and changes can be synced up with the server. GitHub also keeps a full revision history full of change notes and past source code. All changes, deletions, and comments, are stored in the the cloud. This means your source code is available from anywhere in the world with an Internet connection. At the library, at the lecture, or at the bus stop. You may also opt to use github as a lightweight note taking solution. All of your notes would be online and could be shared with others. You may also opt to have other users edit your notes. This means notes can be edited by two people at two different times and the notes can still be merged together with minimal conflicts.
+
+Both of these tools are great for personal use, group use, programming courses, or non-programming courses. Each have it’s own strengths and weaknesses depending on context and topic. However, using these tools can greatly help any college student.
